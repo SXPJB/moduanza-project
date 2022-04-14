@@ -1,0 +1,176 @@
+#tAvisos {
+    width: 80%;
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+    margin-top: 2cm;
+    border-collapse: collapse;
+}
+tr{
+    height: 50px;
+}
+/* Colores en escala de AZUL*/
+#b9 {
+    background-color: #174EA6;
+    color: white;
+}
+#b8 {
+    background-color: #185ABC;
+    color: white;
+}
+#b7 {
+    background-color: #1967D2;
+    color: white;
+}
+#b6 {
+    background-color: #1A73EB;
+    color: white;
+}
+#b5 {
+    background-color: #4285F4;
+    color: white;
+}
+#b4 {
+    background-color: #669DF6;
+    font-style: #202124;
+}
+#b3 {
+    background-color: #8AB4F8;
+    color: #202124;
+}
+#b2 {
+    background-color: #AECBFA;
+    color: #202124;
+}
+#b1 {
+    background-color: #D2E3FC;
+    color: #202124;
+}
+#b0 {
+    background-color: #E0F0FE;
+    color: #202124;
+}
+/*colores en escala de ROJO */
+#r9 {
+    background-color: #A50E0E;
+    color: white;
+}
+#r8 {
+    background-color: #B31412;
+    color: white;
+}
+#r7 {
+    background-color: #C5221F;
+    color: white;
+}
+#r6 {
+    background-color: #D93025;
+    color: white;
+}
+#r5 {
+    background-color: #EA4335;
+    color: white;
+}
+#r4 {
+    background-color: #EE675C;
+    color: white;
+}
+#r3 {
+    background-color: #F28B82;
+    color: white;
+}
+#r2 {
+    background-color: #F6AEA6;
+    font-style: #202124;
+}
+#r1 {
+    background-color: #FAD2CF;
+    font-style: #202124;
+}
+#r0 {
+    background-color: #FCEBE6;
+    font-style: #202124;
+}
+
+/*colores en escala de AMARILLO */
+#y9 {
+    background-color: #E37400;
+    color: white;
+}
+#y8 {
+    background-color: #EA8600;
+    color: white;
+}
+#y7 {
+    background-color: #F29900;
+    color: white;
+}
+#y6 {
+    background-color: #F9AB00;
+    color: white;
+}
+#y5 {
+    background-color: #FBBC04;
+    color: #202124;
+}
+#y4 {
+    background-color: #FCC934;
+    color: #202124;
+}
+#y3 {
+    background-color: #FDD663;
+    color: #202124;
+}
+#y2 {
+    background-color: #FDE293;
+    color: #202124;
+}
+#y1 {
+    background-color: #FEEFC3;
+    color: #202124;
+}
+#y0 {
+    background-color: #FEF7E0;
+    color: #202124;
+}
+
+/*colores en escala de VERDE */
+#g9 {
+    background-color: #0D652D;
+    color: white;
+}
+#g8 {
+    background-color: #137333;
+    color: white;
+}
+#g7 {
+    background-color: #188038;
+    color: white;
+}
+#g6 {
+    background-color: #1E8E3E;
+    color: white;
+}
+#g5 {
+    background-color: #34A853;
+    color: white;
+}
+#g4 {
+    background-color: #58B974;
+    color: #202124;
+}
+#g3 {
+    background-color: #81C995;
+    color: #202124;
+}
+#g2 {
+    background-color: #A8DAB5;
+    color: #202124;
+}
+#g1 {
+    background-color: #CEEAD6;
+    color: #202124;
+}
+#g0 {
+    background-color: #E6F4EA;
+    color: #202124;
+}

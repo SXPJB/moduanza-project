@@ -1,0 +1,174 @@
+#tColor {
+    width: 80%;
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+    margin-top: 2cm;
+    border-collapse: collapse;
+    margin-bottom: 2cm;
+}
+/* Colores en escala de NARANJA*/
+#o9 {
+    background-color: #B06000;
+    color: white;
+}
+#o8 {
+    background-color: #C26401;
+    color: white;
+}
+#o7 {
+    background-color: #D56E0C;
+    color: white;
+}
+#o6 {
+    background-color: #E8710A;
+    color: white;
+}
+#o5 {
+    background-color: #FA7B17;
+    color: white;
+}
+#o4 {
+    background-color: #FA903E;
+    color: white;
+}
+#o3 {
+    background-color: #FCAD70;
+    color: #B06000;
+}
+#o2 {
+    background-color: #FDC69C;
+    color: #B06000;
+}
+#o1 {
+    background-color: #FEDFC8;
+    color: #B06000;
+}
+#o0 {
+    background-color: #FEEFE3;
+    color: #B06000;
+}
+/*colores en escala de ROSA */
+#p9 {
+    background-color: #9C166B;
+    color: white;
+}
+#p8 {
+    background-color: #B80672;
+    color: white;
+}
+#p7 {
+    background-color: #D01884;
+    color: white;
+}
+#p6 {
+    background-color: #E52592;
+    color: white;
+}
+#p5 {
+    background-color: #F439A0;
+    color: white;
+}
+#p4 {
+    background-color: #FF63B8;
+    color: white;
+}
+#p3 {
+    background-color: #FF8BCB;
+    color: #9C166B;
+}
+#p2 {
+    background-color: #FBA6D6;
+    color: #9C166B;
+}
+#p1 {
+    background-color: #FDCFE8;
+    color: #9C166B;
+}
+#p0 {
+    background-color: #FDE7F3;
+    color: #9C166B;
+}
+
+/*colores en escala de MORADO */
+#m9 {
+    background-color: #681DA8;
+    color: white;
+}
+#m8 {
+    background-color: #7627BB;
+    color: white;
+}
+#m7 {
+    background-color: #8430CE;
+    color: white;
+}
+#m6 {
+    background-color: #9334E6;
+    color: white;
+}
+#m5 {
+    background-color: #A142F4;
+    color: white;
+}
+#m4 {
+    background-color: #AF5CF7;
+    color: white;
+}
+#m3 {
+    background-color: #C58AF9;
+    color: #681DA8;
+}
+#m2 {
+    background-color: #D7AEFB;
+    color: #681DA8;
+}
+#m1 {
+    background-color: #E9D2FD;
+    color: #681DA8;
+}
+#m0 {
+    background-color: #F3E8FD;
+    color: #681DA8;
+}
+
+/*colores en escala de CYAN */
+#c9 {
+    background-color: #007B83;
+    color: white;
+}
+#c8 {
+    background-color: #098591;
+    color: white;
+}
+#c7 {
+    background-color: #129EAF;
+    color: white;
+}
+#c6 {
+    background-color: #12B5CB;
+    color: white;
+}
+#c5 {
+    background-color: #24C1E0;
+    color: white;
+}
+#c4 {
+    background-color: #4ECDE6;
+    color: white;
+}
+#c3 {
+    background-color: #78D9EC;
+    color: #007B83;
+}
+#c2 {
+    background-color: #A1E4F2;
+    color: #007B83;
+}
+#c1 {
+    background-color: #CBF0F8;
+    color: #007B83;
+}
+#c0 {
+    background-color: #E4F7FB;
+    color: #007B83;
+}

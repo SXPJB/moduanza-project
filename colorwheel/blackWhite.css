@@ -1,0 +1,48 @@
+#tGrises {
+    width: 80%;
+    margin-left: 2.5cm;
+    margin-right: 2.5cm;
+    margin-top: 2cm;
+    border-collapse: collapse;
+}
+/*colores en escala de GRISES*/
+#bw9 {
+    background-color: #202124;
+    color: white;
+}
+#bw8 {
+    background-color: #3C4043;
+    color: white;
+}
+#bw7 {
+    background-color: #5F6368;
+    color: white;
+}
+#bw6 {
+    background-color: #80868B;
+    color: white;
+}
+#bw5 {
+    background-color: #9AA0A6;
+    color: white;
+}
+#bw4 {
+    background-color: #BDC1C6;
+    color: black;
+}
+#bw3 {
+    background-color: #DADCE0;
+    color: black;
+}
+#bw2 {
+    background-color: #E8EAED;
+    color: black;
+}
+#bw1 {
+    background-color: #F1F3F4;
+    color: black;
+}
+#bw0 {
+    background-color: #F8F9FA;
+    color: black;
+}
